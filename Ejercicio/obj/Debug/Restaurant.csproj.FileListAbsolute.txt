@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SEGUNDOPARCIAL.MARTES.CARMONA.GONZALO\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\User\source\repos\SEGUNDOPARCIAL.MARTES.CARMONA.GONZALO\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\User\source\repos\SEGUNDOPARCIAL.MARTES.CARMONA.GONZALO\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\User\source\repos\SEGUNDOPARCIAL.MARTES.CARMONA.GONZALO\Ejercicio\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SEGUNDOPARCIAL.MARTES.CARMONA.GONZALO\Ejercicio\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SEGUNDOPARCIAL.MARTES.CARMONA.GONZALO\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\User\source\repos\SEGUNDOPARCIAL.MARTES.CARMONA.GONZALO\Ejercicio\obj\Debug\Ejercicio.pdb
